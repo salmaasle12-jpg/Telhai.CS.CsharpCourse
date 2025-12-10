@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\bin\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.exe
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\bin\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.deps.json
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\bin\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.runtimeconfig.json
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\bin\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.dll
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\bin\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.pdb
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.AssemblyInfo.cs
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.sourcelink.json
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.dll
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\refint\Telhai.CS.CsharpCourse.DesignPatterns.dll
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.pdb
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\Telhai.CS.CsharpCourse.DesignPatterns.genruntimeconfig.cache
+C:\Users\user\OneDrive - Tel Hai College - Students\سطح المكتب\NET\Intro\Telhai.CS.CsharpCourse\Telhai.CS.CsharpCourse.DesignPatterns\obj\Debug\net9.0\ref\Telhai.CS.CsharpCourse.DesignPatterns.dll
